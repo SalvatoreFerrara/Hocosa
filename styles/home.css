@@ -51,7 +51,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .image-grid {
     width: 100%;
   }
@@ -67,7 +67,7 @@
 
 
   }
-@media (min-width: 768px) and  (max-width: 1449px){
+@media (min-width: 481px) and  (max-width: 1449px){
   .grid-table {
     grid-template-columns: 1fr ;
   }
@@ -139,7 +139,7 @@
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 480px) {
   .image-grid-2 {
     width: 100%;
   }
@@ -155,7 +155,7 @@
 
 
   }
-@media (min-width: 768px) and  (max-width: 1449px){
+@media (min-width: 481px) and  (max-width: 1449px){
   .grid-table-2 {
     grid-template-columns: 1fr 1fr ;
   }
