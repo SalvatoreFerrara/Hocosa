@@ -228,7 +228,7 @@ header{
 
 .menu > li:hover>a, .submenu > li:hover > a{
   background-color: var(--dark);
-  color: var(--hover-color)
+  color: var(--light)
 }
 
 .menu > li:hover > a{
