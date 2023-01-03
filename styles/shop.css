@@ -18,19 +18,16 @@
 
 }
 
-
-.article-element {
-  text-align: center;
-  z-index: -1;
-
-}
-
-
 .article-element a{
   text-decoration: none;
   border: 0;
-  color:black
+  color:black;
+  cursor: pointer;
 }
+
+
+
+
 
 .image-article {
   width: 100%;
@@ -46,6 +43,8 @@
   font-family: 'Open Sans';
   opacity: 0.5;
   margin-top: 10px;
+  z-index: -1;
+  text-align: center;
   
 }
 

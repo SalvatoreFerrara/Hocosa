@@ -42,6 +42,7 @@ header{
   font-family: "Futura W02 Medium", Helvetica, Arial, Verdana, sans-serif;
   font-weight: normal;
   font-size: 18px;
+  font-weight: bold;
 }
 .menu{
   display: flex;
