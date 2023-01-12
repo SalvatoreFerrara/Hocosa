@@ -86,7 +86,7 @@
 /* Small Devices, Tablets */
 @media only screen and (min-width : 768px) {
   .article-div {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr ;
   
   }
   .desc-elements {
