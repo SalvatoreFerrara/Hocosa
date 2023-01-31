@@ -54,7 +54,7 @@
     grid-template-columns: 1fr 1fr ;
   }
   .article-table {
-    grid-template-columns: 1fr 1fr ;
+    grid-template-columns: 1fr  ;
   }
 
   .article-desc{
@@ -69,7 +69,7 @@
     grid-template-columns: 1fr 1fr;
   }
   .article-table {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr ;
   }
 
   .article-desc{
