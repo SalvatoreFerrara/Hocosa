@@ -31,7 +31,7 @@
 
 .image-article {
   width: 100%;
-  height: 80%;
+  height: 90%;
   border-radius: 0.5em;
   box-shadow: 0 7px 14px rgba(106, 102, 102, 0.25), 0 5px 5px ;
   /* opacity: 0.3; */
@@ -110,7 +110,7 @@
 @media only screen and (min-width : 1200px) {
 
   .article-table {
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
   }
 
   .article-desc{

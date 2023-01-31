@@ -23,11 +23,7 @@ header{
   background-color: var(--header-bg);
   padding-left: 1.5em;
 }
-/* .branding-logo{
-  color:var(--light);
-  font-size:calc(0.8rem + 1vw);
-  text-decoration: none;;
-} */
+
  .logo-image {
   width: 180px;
  }
