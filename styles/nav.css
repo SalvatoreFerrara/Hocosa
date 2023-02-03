@@ -18,10 +18,12 @@
 body{
   font-family: "josefin sans", "helvetica",sans-serif;
   font-size: 1rem;
+  background-color: var(--light);
 }
 header{
   background-color: var(--header-bg);
   padding-left: 1.5em;
+  z-index: 10;
 }
 
  .logo-image {
