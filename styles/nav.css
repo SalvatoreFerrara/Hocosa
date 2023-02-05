@@ -2,7 +2,8 @@
 :root{
   box-sizing: border-box;
 
-  --primary: #F1F1E6;
+  /* --primary: #F1F1E6; */
+  --p: #e3dbfe;
   --hover-color: #8290BB;
   --dark: #03519E ;
   --light: #F6F9FF ;
@@ -16,12 +17,12 @@
   padding: 0;
 }
 body{
-  font-family: "josefin sans", "helvetica",sans-serif;
+  font-family: "Nunito";
   font-size: 1rem;
-  background-color: var(--light);
+  background-color: #f3f0fb;
 }
 header{
-  background-color: var(--header-bg);
+  background-color: var(--p);
   padding-left: 1.5em;
   z-index: 10;
 }
@@ -37,9 +38,9 @@ header{
   display: flex;
   justify-content: space-between;
   align-items: center;
-  font-family: "Futura W02 Medium", Helvetica, Arial, Verdana, sans-serif;
+  font-family: "Nunito";
   font-weight: normal;
-  font-size: 18px;
+  font-size: 25px;
   font-weight: bold;
 }
 .menu{
@@ -50,6 +51,7 @@ header{
   list-style: none;
 }
 .menu li a{
+  font-family: "Nunito";
   display: block;
   text-decoration: none;
   color: var(--dark);
