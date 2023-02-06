@@ -1,17 +1,18 @@
 .first-title{
   text-align: center;
-  font-family: 'Open Sans';
+  font-family: 'Nunito';
   font-size: 2.5em;
   margin-top: 1.2em;
-  color: rgb(86, 70, 70);
+  color:#03519E;
 }
+
 
 .second-title{
   text-align: center;
-  font-family: 'Open Sans';
+  font-family: 'Nunito';
   font-size: 2.5em;
   margin-top: 3em;
-  color: rgb(86, 70, 70);
+  color:#03519E;
 }
 
 
@@ -21,19 +22,19 @@
   margin-top: 3%;
   margin-left: 10%;
   margin-right: 20%;
-  font-family: 'Open Sans';
+  font-family: 'Nunito';
   font-size: 1.5em;
 }
 
 .article-title{
   min-width: 200px;
   font-weight: bold;
-  color: rgb(86, 70, 70);
+  color: #03519E;
 }
 
 .inside-text{
   min-width: 200px;
-  color: rgb(86, 70, 70);
+  color:#03519E;
 }
 
 .effect {
