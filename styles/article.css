@@ -170,6 +170,11 @@
   .image-single{
     width: 80vw;
   }
+  .image-size{
+
+    width: 10vw;
+    height: 10vw;
+  }
   
   
 }
@@ -196,6 +201,11 @@
   .image-single{
     width: 80vw;
   }
+  .image-size{
+
+    width: 10vw;
+    height: 10vw;
+  }
   
 }
 
@@ -220,6 +230,11 @@
 
   .image-single{
     width: 30vw;
+  }
+  .image-size{
+
+    width: 4vw;
+    height: 4vw;
   }
 
  
