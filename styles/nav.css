@@ -135,16 +135,16 @@ header{
     transition: 200ms transform cubic-bezier(0.36,0.4,0.42,1.48) 100ms, 100ms opacity ease-in-out;
   }
   .menu > li > a{
-    font-size: 1.5rem;
+    font-size: 3vw;
     color:var(--dark);
   }
   .submenu > li > a{
-    font-size: 1.5rem;
+    font-size: 3vw;
   }
 
   .submenu{
     top:0;
-    padding-left: 1.5em;
+    padding-left: 3vw;
   }
   .submenu .submenu{
     top:0;
