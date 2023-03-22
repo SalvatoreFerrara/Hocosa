@@ -27,6 +27,11 @@ header{
   z-index: 10;
 }
 
+
+ .logo a{
+  text-decoration: none;
+ }
+
  .logo-image {
   width: 180px;
  }
