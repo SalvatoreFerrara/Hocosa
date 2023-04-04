@@ -1,0 +1,3 @@
+ns2.hostcenter.com
+ns.hostcenter.com
+ns3.hostcenter.com
